@@ -1,0 +1,6 @@
+[submodule "gridfm-datakit"]
+	path = gridfm-datakit
+	url = https://github.com/anandhusasikumar/gridfm-datakit
+[submodule "gridfm-graphkit"]
+	path = gridfm-graphkit
+	url = https://github.com/anandhusasikumar/gridfm-graphkit
